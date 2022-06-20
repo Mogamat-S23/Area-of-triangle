@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    height: 100vh;
+    padding: 0;
+    border: 0;
+    background-image: url(../images/photo-1496954649918-80cc4e7a8076.jfif);
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow-y: hidden;
+
+
+  }
+  
+
+  .container {
+    
+   
+    cursor: pointer;
+    user-select: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10%;
+    width: 500px;
+    background-color:lightcoral;
+    margin-left: 29%;
+     border-top-left-radius: 20%; 
+     border-bottom-right-radius: 20%;
+    height: 300px;
+    opacity: 90%;
+    
+    
+    
+   
+  }
+
+
+
+  h1{
+    font-size: larger;
+    color: whitesmoke;
+  }
